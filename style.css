@@ -1,5 +1,5 @@
 	.home {
-		background-image: url("../Picture/homebackground.jpg");
+		background-image: url("homebackground.jpg");
 	   background-repeat:no-repeat; 
 	   background-size: 100%; 
 	   background-position:center;
@@ -76,7 +76,7 @@
 		}
 		
 		.background {
-			background-image: url("../Picture/home.jpg");
+			background-image: url("home.jpg");
 			background-repeat:no-repeat; 
 			background-size: 100%; 
 			background-position:center;
