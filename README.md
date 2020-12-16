@@ -1,1 +1,1 @@
-# sinami-t
+# sinam-it
